@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/helloreact/static/css/main.a617e044.chunk.css",
+    "main.js": "/helloreact/static/js/main.8643d761.chunk.js",
+    "main.js.map": "/helloreact/static/js/main.8643d761.chunk.js.map",
+    "runtime-main.js": "/helloreact/static/js/runtime-main.ecd3b601.js",
+    "runtime-main.js.map": "/helloreact/static/js/runtime-main.ecd3b601.js.map",
+    "static/js/2.e4830030.chunk.js": "/helloreact/static/js/2.e4830030.chunk.js",
+    "static/js/2.e4830030.chunk.js.map": "/helloreact/static/js/2.e4830030.chunk.js.map",
+    "static/js/3.dfd6e574.chunk.js": "/helloreact/static/js/3.dfd6e574.chunk.js",
+    "static/js/3.dfd6e574.chunk.js.map": "/helloreact/static/js/3.dfd6e574.chunk.js.map",
+    "index.html": "/helloreact/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/helloreact/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.e4830030.chunk.js.LICENSE.txt": "/helloreact/static/js/2.e4830030.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/helloreact/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecd3b601.js",
+    "static/js/2.e4830030.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.8643d761.chunk.js"
+  ]
+}
